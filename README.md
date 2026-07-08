@@ -1,2 +1,16 @@
-# blogwell-landing-page
-A landing page for blogwell bult with HTML AND CSS feature a clean design using basic HTML and CSS
+# Blogwell Landing Page
+
+A responsive landing page built with HTML and CSS.
+
+## Features
+- Responsive
+- Modern UI
+- Clean Layout
+- Mobile Friendly
+
+## Technologies Used
+- HTML5
+- CSS3
+
+## Author
+Abdul Wahab
