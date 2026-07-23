@@ -13,5 +13,8 @@ A responsive landing page built with HTML and CSS.
 - CSS3
 ## Check it 
 - https://abdulwahab-abbasi.github.io/blogwell-landing-page/
+
+#LinedIN profile
+https://www.linkedin.com/in/abdul-wahab-abbasi-348804423/
 ## Author
 Abdul Wahab
